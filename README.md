@@ -77,3 +77,7 @@ Add GUI using Tkinter.
 
 Enable adjustable grid sizes (3×3 to 9×9).
 
+
+👨‍💻 Author
+Rajmohan P
+MBA Business Analytics | Project Manager | AI Enthusiast
